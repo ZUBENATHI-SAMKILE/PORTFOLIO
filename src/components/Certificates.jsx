@@ -5,32 +5,32 @@ const certificates = [
   {
     title: "Intro to Machine Learning",
     issuer: "Kaggle",
-    image: "/assets/certificates/Machine.jpg"
+    image:  process.env.PUBLIC_URL + "/assets/certificates/Machine.jpg"
   },
   {
     title: " Fullstack Web Development",
     issuer: "FNB App Academy",
-    image: "/assets/certificates/FNB.jpg"
+    image: process.env.PUBLIC_URL + "/assets/certificates/FNB.jpg"
   },
   {
     title: "JavaScript Essentials 1",
     issuer: "JS Institute",
-    image: "/assets/certificates/Javascript.jpg"
+    image: process.env.PUBLIC_URL + "/assets/certificates/Javascript.jpg"
   },
   {
     title: "Python Essentials 2",
     issuer: "Python Institute",
-    image: "/assets/certificates/Python.jpg"
+    image: process.env.PUBLIC_URL + "/assets/certificates/Python.jpg"
   },
    {
     title: " NDG Linux Unhatched",
     issuer: " Cisco Networking Academy",
-    image: "/assets/certificates/Linux.jpg"
+    image: process.env.PUBLIC_URL + "/assets/certificates/Linux.jpg"
   },
   {
     title: "Python Libraries for Data Science ",
     issuer: " Simple Learn SkillUp",
-    image: "/assets/certificates/Data Science.jpg"
+    image: process.env.PUBLIC_URL + "/assets/certificates/Data Science.jpg"
   }
 ];
 
