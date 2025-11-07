@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import profile from '../assets/images/profile.jpg';
+import CV from '../assets/images/Zubenathi Samkile CV.pdf';
 
 const Home = () => {
   const lines = useMemo(
@@ -41,7 +43,7 @@ const Home = () => {
     <section id="home" className="hero">
       <div className="hero_container">
         <div className="hero_image">
-          <img src={process.env.PUBLIC_URL + "/assets/images/profile.jpg"} alt="Profile" />
+          <img src={profile} alt="Profile" />
         </div>
 
         <div className="hero_text">
@@ -50,7 +52,7 @@ const Home = () => {
 
           <div className="hero_buttons">
             <a href="#projects" className="btn-primary">View Work</a>
-            <a href={process.env.PUBLIC_URL + "/assets/images/Zubenathi Samkile CV.pdf"} download className="btn-secondary">Download CV</a>
+            <a href={CV} download className="btn-secondary">Download CV</a>
           </div>
 
           <p className="typing_animation">{currentLine}<span className="cursor">|</span></p>

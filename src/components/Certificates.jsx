@@ -1,36 +1,42 @@
 import React, { useState } from 'react';
 import { FaAward, FaTimes } from 'react-icons/fa';
+import Machine from '../assets/certificates/Machine.jpg';
+import FNB from '../assets/certificates/FNB.jpg';
+import Javascript from '../assets/certificates/Javascript.jpg';
+import Python from '../assets/certificates/Python.jpg';
+import Linux from '../assets/certificates/Linux.jpg';
+import DataScience from '../assets/certificates/Data Science.jpg';
 
 const certificates = [
   {
     title: "Intro to Machine Learning",
     issuer: "Kaggle",
-    image:  process.env.PUBLIC_URL + "/assets/certificates/Machine.jpg"
+    image: Machine
   },
   {
     title: " Fullstack Web Development",
     issuer: "FNB App Academy",
-    image: process.env.PUBLIC_URL + "/assets/certificates/FNB.jpg"
+    image: FNB
   },
   {
     title: "JavaScript Essentials 1",
     issuer: "JS Institute",
-    image: process.env.PUBLIC_URL + "/assets/certificates/Javascript.jpg"
+    image: Javascript
   },
   {
     title: "Python Essentials 2",
     issuer: "Python Institute",
-    image: process.env.PUBLIC_URL + "/assets/certificates/Python.jpg"
+    image: Python
   },
    {
     title: " NDG Linux Unhatched",
     issuer: " Cisco Networking Academy",
-    image: process.env.PUBLIC_URL + "/assets/certificates/Linux.jpg"
+    image: Linux
   },
   {
     title: "Python Libraries for Data Science ",
     issuer: " Simple Learn SkillUp",
-    image: process.env.PUBLIC_URL + "/assets/certificates/Data Science.jpg"
+    image: DataScience
   }
 ];
 
