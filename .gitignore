@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+# Ignore the plain .env file (keep local config out of the repo)
+.env
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
