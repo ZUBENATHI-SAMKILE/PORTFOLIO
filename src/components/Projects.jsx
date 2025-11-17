@@ -7,9 +7,18 @@ import VideoVault from '../assets/projects/videovault.jpg';
 import Attendance from '../assets/projects/Attendance.jpg';
 import Weather from '../assets/projects/weather.jpg';
 import Calculator from '../assets/projects/Calculator.jpg'; 
+import DocAppo  from '../assets/projects/Doc-Appo.png';
 
 
 const projects = [
+  {
+    title: "Doc Appointment frontend",
+    description: "A frontend application for managing doctor appointments, built with Vite and React. It features a user-friendly interface for booking and managing appointments efficiently.",
+    image: DocAppo,
+    live: "https://zubenathi-samkile.github.io/Doc-Appointment-frontend/",
+    github: "https://github.com/ZUBENATHI-SAMKILE/Doc-Appointment-frontend.git",
+    tech: ["Vite + React", "JavaScript", "HTML", "CSS" ]
+  },
   {
     title: "BookStore Web App",
     description: "A full-stack web application built with Flask and SQLite that lets users browse, purchase, and manage books online. Features include user authentication, an admin dashboard for book management, secure checkout, and order history, all wrapped in a clean and responsive interface. The app is deployed on Render.",
