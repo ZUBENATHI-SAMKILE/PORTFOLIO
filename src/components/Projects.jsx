@@ -7,7 +7,7 @@ import VideoVault from '../assets/projects/videovault.jpg';
 import Attendance from '../assets/projects/Attendance.jpg';
 import Weather from '../assets/projects/weather.jpg';
 import Calculator from '../assets/projects/Calculator.jpg'; 
-import DocAppo  from '../assets/projects/Doc-Appo.png';
+import DocAppo  from '../assets/projects/Doc-Appo.jpg';
 
 
 const projects = [
