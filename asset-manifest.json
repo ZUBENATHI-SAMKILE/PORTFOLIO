@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO/static/css/main.cb76d9b2.css",
-    "main.js": "/PORTFOLIO/static/js/main.0cac382d.js",
+    "main.css": "/PORTFOLIO/static/css/main.8914f127.css",
+    "main.js": "/PORTFOLIO/static/js/main.c6c5c302.js",
     "static/media/Zubenathi Samkile CV.pdf": "/PORTFOLIO/static/media/Zubenathi Samkile CV.0b7145d8401900477177.pdf",
     "static/media/background.png": "/PORTFOLIO/static/media/background.d0860b04c34fdd11bb76.png",
+    "static/media/Cloud.jpg": "/PORTFOLIO/static/media/Cloud.afd9010204a8e1f6355d.jpg",
     "static/media/profile.jpg": "/PORTFOLIO/static/media/profile.42604a768db500ca0491.jpg",
     "static/media/FNB.jpg": "/PORTFOLIO/static/media/FNB.5c030e099a841c0294df.jpg",
     "static/media/Machine.jpg": "/PORTFOLIO/static/media/Machine.cb59a43cb986bd955bd4.jpg",
@@ -19,11 +20,11 @@
     "static/media/weather.jpg": "/PORTFOLIO/static/media/weather.b3215b56aafdf44841b2.jpg",
     "static/media/Telemedicine.png": "/PORTFOLIO/static/media/Telemedicine.74bfa1541bb52f3fd9fc.png",
     "index.html": "/PORTFOLIO/index.html",
-    "main.cb76d9b2.css.map": "/PORTFOLIO/static/css/main.cb76d9b2.css.map",
-    "main.0cac382d.js.map": "/PORTFOLIO/static/js/main.0cac382d.js.map"
+    "main.8914f127.css.map": "/PORTFOLIO/static/css/main.8914f127.css.map",
+    "main.c6c5c302.js.map": "/PORTFOLIO/static/js/main.c6c5c302.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb76d9b2.css",
-    "static/js/main.0cac382d.js"
+    "static/css/main.8914f127.css",
+    "static/js/main.c6c5c302.js"
   ]
 }
