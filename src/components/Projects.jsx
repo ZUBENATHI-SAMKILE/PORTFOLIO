@@ -13,7 +13,7 @@ import DocAppo  from '../assets/projects/Doc-Appo.jpg';
 const projects = [
   {
     title: "Doc Appointment frontend",
-    description: "A frontend application for managing doctor appointments, built with Vite and React. It features a user-friendly interface for booking and managing appointments efficiently.",
+    description: "A frontend application for managing doctor appointments, built with Vite and React. It features a user-friendly interface for booking and managing appointments efficiently. There are different doctor specialties to choose from and use a friendly UI/UX design that make it easy for users to navigate and schedule their appointments.",
     image: DocAppo,
     live: "https://zubenathi-samkile.github.io/Doc-Appointment-frontend/",
     github: "https://github.com/ZUBENATHI-SAMKILE/Doc-Appointment-frontend.git",
@@ -26,14 +26,6 @@ const projects = [
     live: "https://book-store-app-6.onrender.com",
     github: "https://github.com/ZUBENATHI-SAMKILE/BOOK-STORE-APP.git",
     tech: ["Flask (Python)", "Javascript", "SQLite", "HTML", "CSS" ]
-  },
-  {
-    title: "Telemedicine Web App",
-    description: "A telemedicine web application built with Flask and React that allows patients to book appointments, consult with doctors via video calls, and manage their health records online. There is a chatbot for instant support where a patient can ask questions and receive immediate assistance.",
-    image: Telemedicine,
-    live: "https://book-store-app-6.onrender.com",
-    github: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
-    tech: ["Flask(Python)", "React", "WebRTC", "RESTful APIs", "HTML", "Tailwind CSS"]
   },
   {
     title: "Dictionary App System",
@@ -77,6 +69,14 @@ const projects = [
     github: "https://github.com/ZUBENATHI-SAMKILE/CalculatorApp-Android.git",
     tech: ["Java", "Material Design", "Android Studio", "XML" ]
     
+  },
+  {
+    title: "Telemedicine Web App",
+    description: "A telemedicine web application built with Flask and React that allows patients to book appointments, consult with doctors via video calls, and manage their health records online. There is a chatbot for instant support where a patient can ask questions and receive immediate assistance.",
+    image: Telemedicine,
+    live: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
+    github: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
+    tech: ["Flask(Python)", "React", "WebRTC", "RESTful APIs", "HTML", "Tailwind CSS"]
   }
 ];
 
