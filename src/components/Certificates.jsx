@@ -4,14 +4,25 @@ import Machine from '../assets/certificates/Machine.jpg';
 import FNB from '../assets/certificates/FNB.jpg';
 import Javascript from '../assets/certificates/Javascript.jpg';
 import Python from '../assets/certificates/Python.jpg';
-import Linux from '../assets/certificates/Linux.jpg';
+import Cloud from '../assets/certificates/Cloud.jpg';
 import DataScience from '../assets/certificates/Data Science.jpg';
+import Linux from '../assets/certificates/Linux.jpg';
 
 const certificates = [
   {
     title: "Intro to Machine Learning",
     issuer: "Kaggle",
     image: Machine
+  },
+  {
+    title: " Microsoft Cloud Services",
+    issuer: " Microsoft",
+    image: Cloud
+  },
+  {
+    title: " NDG Linux Essentials",
+    issuer: "Cisco Networking Academy",
+    image: Linux
   },
   {
     title: " Fullstack Web Development",
@@ -27,11 +38,6 @@ const certificates = [
     title: "Python Essentials 2",
     issuer: "Python Institute",
     image: Python
-  },
-   {
-    title: " NDG Linux Unhatched",
-    issuer: " Cisco Networking Academy",
-    image: Linux
   },
   {
     title: "Python Libraries for Data Science ",
