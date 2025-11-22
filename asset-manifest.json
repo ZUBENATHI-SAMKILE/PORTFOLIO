@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PORTFOLIO/static/css/main.8914f127.css",
-    "main.js": "/PORTFOLIO/static/js/main.50556216.js",
+    "main.js": "/PORTFOLIO/static/js/main.c644e368.js",
     "static/media/Zubenathi Samkile CV.pdf": "/PORTFOLIO/static/media/Zubenathi Samkile CV.0b7145d8401900477177.pdf",
     "static/media/background.png": "/PORTFOLIO/static/media/background.d0860b04c34fdd11bb76.png",
     "static/media/Cloud.jpg": "/PORTFOLIO/static/media/Cloud.afd9010204a8e1f6355d.jpg",
@@ -9,6 +9,7 @@
     "static/media/FNB.jpg": "/PORTFOLIO/static/media/FNB.5c030e099a841c0294df.jpg",
     "static/media/Machine.jpg": "/PORTFOLIO/static/media/Machine.cb59a43cb986bd955bd4.jpg",
     "static/media/BookStore.jpg": "/PORTFOLIO/static/media/BookStore.73da305de21d54f0cbb9.jpg",
+    "static/media/Analysis.jpg": "/PORTFOLIO/static/media/Analysis.15bff5e0332b0d2eab67.jpg",
     "static/media/Doc-Appo.jpg": "/PORTFOLIO/static/media/Doc-Appo.5d08c367d7ba55078bef.jpg",
     "static/media/Data Science.jpg": "/PORTFOLIO/static/media/Data Science.8bbfa624f583863e5db9.jpg",
     "static/media/Attendance.jpg": "/PORTFOLIO/static/media/Attendance.ab0e790023115e9add5a.jpg",
@@ -18,14 +19,15 @@
     "static/media/Calculator.jpg": "/PORTFOLIO/static/media/Calculator.6915eb9f054eab46787c.jpg",
     "static/media/Linux.jpg": "/PORTFOLIO/static/media/Linux.df02468688bbbd7f94a9.jpg",
     "static/media/videovault.jpg": "/PORTFOLIO/static/media/videovault.a0dc701d867812b6e295.jpg",
+    "static/media/aws.jpg": "/PORTFOLIO/static/media/aws.3faca66949500f5ffab2.jpg",
     "static/media/weather.jpg": "/PORTFOLIO/static/media/weather.b3215b56aafdf44841b2.jpg",
     "static/media/Telemedicine.png": "/PORTFOLIO/static/media/Telemedicine.74bfa1541bb52f3fd9fc.png",
     "index.html": "/PORTFOLIO/index.html",
     "main.8914f127.css.map": "/PORTFOLIO/static/css/main.8914f127.css.map",
-    "main.50556216.js.map": "/PORTFOLIO/static/js/main.50556216.js.map"
+    "main.c644e368.js.map": "/PORTFOLIO/static/js/main.c644e368.js.map"
   },
   "entrypoints": [
     "static/css/main.8914f127.css",
-    "static/js/main.50556216.js"
+    "static/js/main.c644e368.js"
   ]
 }
