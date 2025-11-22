@@ -8,6 +8,7 @@ import Attendance from '../assets/projects/Attendance.jpg';
 import Weather from '../assets/projects/weather.jpg';
 import Calculator from '../assets/projects/Calculator.jpg'; 
 import DocAppo  from '../assets/projects/Doc-Appo.jpg';
+import Machine  from '../assets/projects/Analysis.jpg';
 
 
 const projects = [
@@ -20,8 +21,16 @@ const projects = [
     tech: ["Vite + React", "JavaScript", "HTML", "CSS" ]
   },
   {
+    title: "Data Analysis Project",
+    description: "Full-stack Machine Learning web application that allows users to upload datasets, perform automated exploratory data analysis (EDA), and train machine learning models with beautiful visualizations. Deployed on Render backend and GitHub Pages for frontend.",
+    image: Machine,
+    live: "https://ZUBENATHI-SAMKILE.github.io/data_analysis_ml_app/",
+    github: "https://github.com/ZUBENATHI-SAMKILE/data_analysis_ml_app.git",
+    tech: ["Flask (Python)", "React", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "HTML", "CSS" ]
+  },
+  {
     title: "BookStore Web App",
-    description: "A full-stack web application built with Flask and SQLite that lets users browse, purchase, and manage books online. Features include user authentication, an admin dashboard for book management, secure checkout, and order history, all wrapped in a clean and responsive interface. The app is deployed on Render.",
+    description: " Login details (email: samkilezubenathi@gmail.com, password: 123456789): This is a full-stack web application that lets users browse, purchase, and manage books online. Features include user authentication, an admin dashboard for book management, secure checkout, and order history, all wrapped in a clean and responsive interface. ",
     image: BookStore,
     live: "https://book-store-app-6.onrender.com",
     github: "https://github.com/ZUBENATHI-SAMKILE/BOOK-STORE-APP.git",

@@ -7,12 +7,13 @@ import Python from '../assets/certificates/Python.jpg';
 import Cloud from '../assets/certificates/Cloud.jpg';
 import DataScience from '../assets/certificates/Data Science.jpg';
 import Linux from '../assets/certificates/Linux.jpg';
+import aws from '../assets/certificates/aws.jpg';
 
 const certificates = [
   {
-    title: "Intro to Machine Learning",
-    issuer: "Kaggle",
-    image: Machine
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services",
+    image: aws
   },
   {
     title: " Microsoft Cloud Services",
@@ -20,14 +21,14 @@ const certificates = [
     image: Cloud
   },
   {
-    title: " NDG Linux Essentials",
-    issuer: "Cisco Networking Academy",
-    image: Linux
-  },
-  {
     title: " Fullstack Web Development",
     issuer: "FNB App Academy",
     image: FNB
+  },
+  {
+    title: "Python Essentials 2",
+    issuer: "Python Institute",
+    image: Python
   },
   {
     title: "JavaScript Essentials 1",
@@ -35,9 +36,14 @@ const certificates = [
     image: Javascript
   },
   {
-    title: "Python Essentials 2",
-    issuer: "Python Institute",
-    image: Python
+    title: " NDG Linux Essentials",
+    issuer: "Cisco Networking Academy",
+    image: Linux
+  },
+  {
+    title: "Intro to Machine Learning",
+    issuer: "Kaggle",
+    image: Machine
   },
   {
     title: "Python Libraries for Data Science ",
