@@ -29,6 +29,14 @@ const projects = [
     tech: ["Flask (Python)", "React", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "HTML", "CSS" ]
   },
   {
+    title: "Telemedicine Web App",
+    description: "A telemedicine web application built with Flask and React that allows patients to book appointments, consult with doctors via video calls, and manage their health records online. There is a chatbot for instant support where a patient can ask questions and receive immediate assistance.",
+    image: Telemedicine,
+    live: "https://telemedicine-frontend-a9rcl4ya1-zubenathis-projects.vercel.app",
+    github: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
+    tech: ["Flask(Python)", "React", "WebRTC", "RESTful APIs", "HTML", "Tailwind CSS"]
+  },
+  {
     title: "BookStore Web App",
     description: " Login details (email: samkilezubenathi@gmail.com, password: 123456789): This is a full-stack web application that lets users browse, purchase, and manage books online. Features include user authentication, an admin dashboard for book management, secure checkout, and order history, all wrapped in a clean and responsive interface. ",
     image: BookStore,
@@ -78,14 +86,6 @@ const projects = [
     github: "https://github.com/ZUBENATHI-SAMKILE/CalculatorApp-Android.git",
     tech: ["Java", "Material Design", "Android Studio", "XML" ]
     
-  },
-  {
-    title: "Telemedicine Web App",
-    description: "A telemedicine web application built with Flask and React that allows patients to book appointments, consult with doctors via video calls, and manage their health records online. There is a chatbot for instant support where a patient can ask questions and receive immediate assistance.",
-    image: Telemedicine,
-    live: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
-    github: "https://github.com/ZUBENATHI-SAMKILE/Telemedicine-App.git",
-    tech: ["Flask(Python)", "React", "WebRTC", "RESTful APIs", "HTML", "Tailwind CSS"]
   }
 ];
 
